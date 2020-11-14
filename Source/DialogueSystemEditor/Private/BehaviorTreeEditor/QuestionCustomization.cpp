@@ -1,8 +1,8 @@
 //Copyright (c) 2016 Artem A. Mavrin and other contributors
 #pragma once
 
-#include "DialogueSystemEditorPrivatePCH.h"
 #include "QuestionCustomization.h"
+#include "DialogueSystemEditorPrivatePCH.h"
 
 #define LOCTEXT_NAMESPACE "DialogueSystem"
 

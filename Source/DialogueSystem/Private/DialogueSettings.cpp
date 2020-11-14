@@ -2,8 +2,8 @@
 
 #pragma once
 
-#include "DialogueSystemPrivatePCH.h"
 #include "DialogueSettings.h"
+#include "DialogueSystemPrivatePCH.h"
 
 bool ADialogueSettings::GetPropertyBoolValue(FString ValueName)
 {

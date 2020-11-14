@@ -1,6 +1,6 @@
 
-#include "DialogueSystemEditorPrivatePCH.h"
 #include "ShowPhrasesCustomization.h"
+#include "DialogueSystemEditorPrivatePCH.h"
 #include "Runtime/Engine/Classes/Matinee/MatineeActor.h"
 
 #include "Runtime/LevelSequence/Public/LevelSequenceActor.h"
